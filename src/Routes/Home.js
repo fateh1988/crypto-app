@@ -47,7 +47,7 @@ function Home() {
   return (
     <div className="App">
       <div className="headerContainer">
-        <h1>Welcome to the CryptoChecker</h1>
+        <h1>Welcome to the CryptoChecker App Made By Fateh Cherrad</h1>
         <div className="buttonContainer">
           <input
             placeholder="Search for a Coin"
